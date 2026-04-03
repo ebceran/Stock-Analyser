@@ -62,4 +62,3 @@ Here is an example of the program running:
 
 ![Program Output](output.png)
 
-
