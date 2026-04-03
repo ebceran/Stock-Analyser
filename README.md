@@ -55,3 +55,11 @@ Sometimes, certain stocks (like TSLA) may not return data. This is likely due to
 
 ## Reflection
 This project helped me understand how to work with APIs, process JSON data, and structure a Python program using functions and loops.
+
+## Example Output
+
+Here is an example of the program running:
+
+![Program Output](output.png)
+
+
